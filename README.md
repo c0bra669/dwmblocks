@@ -1,3 +1,5 @@
+# this config uses my blocks:
+https://github.com/c0bra669/blocks
 # dwmblocks
 Modular status bar for dwm written in c.
 # usage
